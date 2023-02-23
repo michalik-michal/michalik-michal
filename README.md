@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&hide_progress=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&layout=compact)]
 
 <!--
 **michalik-michal/michalik-michal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
