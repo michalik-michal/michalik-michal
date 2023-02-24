@@ -1,6 +1,13 @@
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&layout=compact&theme=github_dark)
 
+-  I'am self taught iOS Developer with little les than a 1 year of experience.
+
+In the past I contributed:
+- ⚽ Goal app by FootballCo
+
+Check out my apss on the AppStore:
+- (https://www.google.com "⛷️ SkiDay")
 <!--
 **michalik-michal/michalik-michal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
