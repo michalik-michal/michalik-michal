@@ -3,15 +3,17 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&layout=compact&theme=github_dark)
 
-In the past I worked on:
+👨‍💻 In the past I worked on:
 
   [⚽ Goal iOS app](https://apps.apple.com/us/app/goal/id518026818)
 
-Check out my apss on the AppStore:
+🏠 Check out my Projects:
 
-  [⛷️ SkiDay](https://apps.apple.com/pl/app/ski-day/id6443993407)
+  [⛷️ SkiDay on the AppStore](https://apps.apple.com/pl/app/ski-day/id6443993407)
   
-  [💯 QuickMath](https://apps.apple.com/pl/app/quick-mathematics/id1621110947)
+  [💯 QuickMath on the AppStore](https://apps.apple.com/pl/app/quick-mathematics/id1621110947)
+  
+  [🏝️ My personal website]([https://apps.apple.com/pl/app/ski-day/id6443993407](https://www.michalmichalik.com/))
   
   
 <!--
