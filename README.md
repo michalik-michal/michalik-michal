@@ -5,15 +5,15 @@
 
 👨‍💻 In the past I worked on:
 
-  [⚽ Goal iOS app](https://apps.apple.com/us/app/goal/id518026818)
+   [⚽ Goal iOS app](https://apps.apple.com/us/app/goal/id518026818)
 
 🏠 Check out my Projects:
 
-  [⛷️ SkiDay on the AppStore](https://apps.apple.com/pl/app/ski-day/id6443993407)
+   [⛷️ SkiDay on the AppStore](https://apps.apple.com/pl/app/ski-day/id6443993407)
   
-  [💯 QuickMath on the AppStore](https://apps.apple.com/pl/app/quick-mathematics/id1621110947)
+   [💯 QuickMath on the AppStore](https://apps.apple.com/pl/app/quick-mathematics/id1621110947)
   
-  [🏝️ My personal website]([https://apps.apple.com/pl/app/ski-day/id6443993407](https://www.michalmichalik.com/))
+   [🏝️ My personal website](https://www.michalmichalik.com/)
   
   
 <!--
