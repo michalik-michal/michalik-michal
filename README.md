@@ -1,7 +1,7 @@
 ### Hi there 👋
  💻 I'am iOS Developer with over 1 year of experience, building mobile apps with Swift and SwiftUI. 💻
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&layout=compact&theme=codeSTACKr)
 
 ### In the past I worked on:
 
