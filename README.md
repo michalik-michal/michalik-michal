@@ -1,8 +1,9 @@
 ### Hi there 👋
  💻 I'am iOS Developer with over 1 year of experience, building apps with Swift and SwiftUI. 💻
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&layout=compact&theme=codeSTACKr)
-
+<!--!
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&layout=compact&theme=codeSTACKr)
+-->
 ### In the past I worked on:
 
    [⚽ Goal iOS app](https://apps.apple.com/us/app/goal/id518026818)
