@@ -4,6 +4,10 @@
 <!--!
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&layout=compact&theme=codeSTACKr)
 -->
+### Currently I contribute to:
+
+   [🚀 Amway Creators +](https://apps.apple.com/us/app/amway-creators/id6446891994)
+   
 ### In the past I worked on:
 
    [⚽ Goal iOS app](https://apps.apple.com/us/app/goal/id518026818)
