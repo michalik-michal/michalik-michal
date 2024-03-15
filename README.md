@@ -1,9 +1,8 @@
 ### Hi there 👋
  💻 I'am iOS Developer with almost 2 years of work experience, building apps with Swift and SwiftUI. 💻
  
-<!--!
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&layout=compact&theme=codeSTACKr)
--->
+
 ### Currently I contribute to:
 
    [🚀 Amway Creators +](https://apps.apple.com/us/app/amway-creators/id6446891994)
