@@ -1,7 +1,7 @@
 ### Hi there 👋
  💻 I'am iOS Developer with almost 2 years of work experience, building apps with Swift and SwiftUI. 💻
  
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&layout=compact&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalik-michal&theme=tokyonight)
 
 ### Currently I contribute to:
 
@@ -13,6 +13,8 @@
 
 ### Check out my Projects:
 
+   [🔥 Nitch on the AppStore](https://apps.apple.com/us/app/nitch-simple-easy-journal/id6480347431)
+   
    [⛷️ SkiDay on the AppStore](https://apps.apple.com/pl/app/ski-day/id6443993407)
   
    [💯 QuickMath on the AppStore](https://apps.apple.com/pl/app/quick-mathematics/id1621110947)
