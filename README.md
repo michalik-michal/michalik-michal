@@ -1,5 +1,5 @@
 ### Hi there 👋
- 💻 I'am iOS Developer with almost 2 years of work experience, building apps with Swift and SwiftUI. 💻
+ 💻 I'am iOS Developer with over 2 years of work experience, building apps with Swift and SwiftUI. 💻
 
 ### Currently I contribute to:
 
@@ -12,10 +12,10 @@
 ### Check out my Projects:
 
    [🔥 Nitch on the AppStore](https://apps.apple.com/us/app/nitch-simple-easy-journal/id6480347431)
+
+   [💯 Outfit AI on the AppStore]([https://apps.apple.com/pl/app/quick-mathematics/id1621110947](https://apps.apple.com/us/app/outfit-ai-outfit-check/id6504117274))
    
    [⛷️ SkiDay on the AppStore](https://apps.apple.com/pl/app/ski-day/id6443993407)
-  
-   [💯 QuickMath on the AppStore](https://apps.apple.com/pl/app/quick-mathematics/id1621110947)
   
    [👨‍💻 My personal website](https://www.michalmichalik.com/)
   
