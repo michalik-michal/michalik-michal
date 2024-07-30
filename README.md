@@ -13,7 +13,7 @@
 
    [🔥 Nitch on the AppStore](https://apps.apple.com/us/app/nitch-simple-easy-journal/id6480347431)
 
-   [💯 Outfit AI on the AppStore]([https://apps.apple.com/pl/app/quick-mathematics/id1621110947](https://apps.apple.com/us/app/outfit-ai-outfit-check/id6504117274))
+   [💯 Outfit AI on the AppStore](https://apps.apple.com/us/app/outfit-ai-outfit-check/id6504117274)
    
    [⛷️ SkiDay on the AppStore](https://apps.apple.com/pl/app/ski-day/id6443993407)
   
